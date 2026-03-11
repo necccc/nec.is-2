@@ -30,9 +30,9 @@ export default function Home() {
           <a href="https://www.meetup.com/Frontend-Meetup-Budapest/">
             Frontend Meetup Budapest
           </a>{' '}
-          occasional <a href="/speaking">speaker</a>, hobby hardware hacker,
-          photographer and Lego nerd. Staff engineer at BinX, a B2B neobank
-          founded in the EU.
+          occasional <a href="/working#speaking">speaker</a>, hobby hardware
+          hacker, photographer and Lego nerd. Staff engineer at BinX, a B2B
+          neobank founded in the EU.
         </p>
       </section>
     </>

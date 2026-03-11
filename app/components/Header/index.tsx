@@ -63,11 +63,11 @@ export const Header = ({ title = '', resume = false }) => {
                   working
                 </Link>
               </li>
-              <li className={css.header_nav_link}>
+              {/*               <li className={css.header_nav_link}>
                 <Link className={css.link} to="/speaking">
                   speaking
                 </Link>
-              </li>
+              </li> */}
               <li className={css.header_nav_link}>
                 <a className={css.link} href="https://bsky.app/profile/nec.is">
                   social
