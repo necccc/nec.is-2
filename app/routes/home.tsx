@@ -20,14 +20,19 @@ export default function Home() {
       <section className={css.intro}>
         <p>
           Mostly online as <strong>_nec</strong>, I'm a{' '}
-          <a href="/working">developer</a> living near Oslo, Norway. Organizer
-          and curator of <a href="http://jsconfbp.com/">JSConf Budapest</a> and{' '}
+          <a href="/working">developer</a> living near Oslo, Norway.{' '}
+        </p>
+
+        <p>
+          Organizer and curator of{' '}
+          <a href="http://jsconfbp.com/">JSConf Budapest</a> and{' '}
           <a href="http://cssconfbp.rocks/">CSSConf Budapest</a>, organizer of{' '}
           <a href="https://www.meetup.com/Frontend-Meetup-Budapest/">
             Frontend Meetup Budapest
           </a>{' '}
           occasional <a href="/speaking">speaker</a>, hobby hardware hacker,
-          photographer and Lego nerd. Staff engineer at BinX.
+          photographer and Lego nerd. Staff engineer at BinX, a B2B neobank
+          founded in the EU.
         </p>
       </section>
     </>
