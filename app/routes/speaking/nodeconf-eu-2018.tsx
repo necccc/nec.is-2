@@ -12,7 +12,7 @@ export function meta({}: Route.MetaArgs) {
     {
       name: 'description',
       content:
-        'Took the stage and talked about cats and gifs in the npm ecosystem, the overhead in every npm module out there',
+        'Took the stage and talked about cats and gifs in the npm ecosystem, the overhead in every npm module out there.',
     },
   ]
 }

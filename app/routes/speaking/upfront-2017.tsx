@@ -11,7 +11,7 @@ export function meta({}: Route.MetaArgs) {
     {
       name: 'description',
       content:
-        'Visited beautiful Manchester with an old coffee machine, for a lovely conference with great people',
+        'Visited beautiful Manchester with an old coffee machine, for a lovely conference with great people.',
     },
   ]
 }

@@ -250,7 +250,7 @@ export default function Working() {
 
             <h3>RuhrJS 2017</h3>
             <h4>
-              <Link to="ruhrjs-2017">Redundant DevOps</Link>
+              <Link to="/speaking/ruhrjs-2017">Redundant DevOps</Link>
             </h4>
             <p>Bochum, Germany • 2017 Oct 14-15</p>
 
@@ -261,9 +261,7 @@ export default function Working() {
             <p>Manchester, UK • 2017 May 19</p>
 
             <h3>Craft Conference 2014</h3>
-            <h4>
-              <Link to="/speaking/craft-2014">JavaScript Module Server</Link>
-            </h4>
+            <h4>JavaScript Module Server</h4>
             <p>Budapest, Hungary • 2014 Apr 23-25</p>
           </div>
 
