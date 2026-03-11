@@ -140,7 +140,8 @@
           content: '■';
           position: absolute;
           transform: translateX(-1.45rem);
-          top: 0;
+          top: 3px;
+          font-size: 1rem;
           color: colors.$color-blue;
         }
       }
