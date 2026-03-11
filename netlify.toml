@@ -1,0 +1,13 @@
+[[headers]]
+for = "/"
+
+[[headers]]
+for = "/examples/assets/*"
+[headers.values]
+Access-Control-Allow-Origin = "*"
+
+[[headers]]
+for = "/examples/assets/*.pngbin"
+[headers.values]
+Access-Control-Allow-Origin = "*"
+Content-Type = "image/jpeg"
